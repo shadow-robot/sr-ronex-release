@@ -1,0 +1,12 @@
+Source: ros-indigo-sr-ronex-hardware-interface
+Section: misc
+Priority: extra
+Maintainer: Shadow Robot's software team <software@shadowrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-ros-ethercat-hardware, ros-indigo-ros-ethercat-model, ros-indigo-roscpp, ros-indigo-sr-ronex-external-protocol
+Homepage: http://www.shadowrobot.com/products/ronex
+Standards-Version: 3.9.2
+
+Package: ros-indigo-sr-ronex-hardware-interface
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-ros-ethercat-hardware, ros-indigo-ros-ethercat-model, ros-indigo-roscpp, ros-indigo-sr-ronex-external-protocol
+Description: This package contains the definition of the CustomHW to be added to the ros_ethercat_model CustomHWMap for the RoNeX.
