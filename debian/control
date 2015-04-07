@@ -1,0 +1,12 @@
+Source: ros-indigo-sr-ronex-test
+Section: misc
+Priority: extra
+Maintainer: Manos Nikolaidis <software@shadowrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-rospy, ros-indigo-rostest, ros-indigo-rosunit
+Homepage: http://www.shadowrobot.com/products/ronex
+Standards-Version: 3.9.2
+
+Package: ros-indigo-sr-ronex-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-ros-ethercat, ros-indigo-rospy, ros-indigo-rostest
+Description: contains software tests that require RoNeX hardware.
