@@ -2,6 +2,14 @@
 Changelog for package sr_ronex_transmissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.0 (2015-04-07)
+-------------------
+* Fix command to pwm. abs value
+* Add a mapping type, and modify the ronex transmission to solve some newly discovered bugs.
+
+0.9.15 (2014-07-18)
+-------------------
+
 0.9.14 (2014-06-13)
 -------------------
 
