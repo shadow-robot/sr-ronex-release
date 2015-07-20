@@ -1,3 +1,0 @@
-<launch>
-  <test test-name="test_ronex_utilities" pkg="sr_ronex_utilities" type="test_ronex_utilities"/>
-</launch>
