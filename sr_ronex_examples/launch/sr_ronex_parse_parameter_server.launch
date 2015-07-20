@@ -1,3 +1,0 @@
-<launch>
-  <node pkg="sr_ronex_examples" type="sr_ronex_parse_parameter_server" name="sr_ronex_parse_parameter_server" output="screen"/>
-</launch>
