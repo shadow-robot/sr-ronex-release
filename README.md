@@ -1,3 +1,35 @@
+## sr_ronex (indigo) - 0.11.0-0
+
+The packages in the `sr_ronex` repository were released into the `indigo` distro by running `/usr/bin/bloom-release sr_ronex --track indigo --rosdistro indigo` on `Mon, 20 Jul 2015 10:23:51 -0000`
+
+These packages were released:
+- `sr_ronex`
+- `sr_ronex_controllers`
+- `sr_ronex_drivers`
+- `sr_ronex_examples`
+- `sr_ronex_external_protocol`
+- `sr_ronex_hardware_interface`
+- `sr_ronex_launch`
+- `sr_ronex_msgs`
+- `sr_ronex_test`
+- `sr_ronex_transmissions`
+- `sr_ronex_utilities`
+
+Version of package(s) in repository `sr_ronex`:
+- upstream repository: https://github.com/shadow-robot/sr-ronex.git
+- release repository: https://github.com/shadow-robot/sr-ronex-release.git
+- rosdistro version: `0.10.0-0`
+- old version: `0.10.0-0`
+- new version: `0.11.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## sr_ronex (indigo) - 0.10.0-0
 
 The packages in the `sr_ronex` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo sr_ronex` on `Tue, 07 Apr 2015 19:32:45 -0000`
