@@ -2,6 +2,11 @@
 Changelog for package sr_ronex_drivers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.11.0 (2015-07-20)
+-------------------
+* fixing broken ronex driver test
+* adding test coverage to the other available packages
+
 0.10.0 (2015-04-07)
 -------------------
 * Adapt SPI controller and configuration to changes in the protocol
