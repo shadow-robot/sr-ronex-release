@@ -1,6 +1,6 @@
 <package>
   <name>sr_ronex_launch</name>
-  <version>0.10.0</version>
+  <version>0.11.0</version>
   <description>Contains the main launch files for the RoNeX system.</description>
   <maintainer email="software@shadowrobot.com">Shadow Robot's software team</maintainer>
 
@@ -21,6 +21,7 @@
 
   <!-- Dependencies needed after this package is compiled. -->
   <run_depend>ros_ethercat_loop</run_depend>
+  <run_depend>ethercat_grant</run_depend>
 
   <!-- Dependencies needed only for running tests. -->
 
